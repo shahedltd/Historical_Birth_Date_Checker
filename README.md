@@ -72,6 +72,6 @@ This web application allows users to determine the day of the week they were bor
 
 - [see live](https://tahsinzidane.github.io/Historical_Birth_Date_Checker/web-version/index.html)
 
-Author: [Shahed Rahman]()
+Author: [Shahed Rahman](https://github.com/shahedltd)
 contributor: [tahsin zidane](https://github.com/tahsinzidane)
 
