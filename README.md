@@ -67,5 +67,11 @@ Notes
   > Ensure the inputs are within the specified range (1700 to 2050) for the year, and valid ranges for the month (1-12) and day (1-31).
   > The script handles common input errors and prompts the user to re-enter the information if needed.
 
-Author:
-Shahed Rahman.
+## Historical Birth Date Checker web app 
+This web application allows users to determine the day of the week they were born on by entering their birth date. Initially developed in Python, this functionality has been converted into JavaScript for a web-based implementation.
+
+- [see live](https://tahsinzidane.github.io/Historical_Birth_Date_Checker/web-version/index.html)
+
+Author: [Shahed Rahman](https://github.com/shahedltd)
+contributor: [tahsin zidane](https://github.com/tahsinzidane)
+
