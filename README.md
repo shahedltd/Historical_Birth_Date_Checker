@@ -60,7 +60,7 @@ while True:
     except:
         print("Invalid date, please enter a valid date.")
 
-Requirements
+Requirements:
   > Python 3.x
 
 Notes
